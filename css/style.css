@@ -1,0 +1,259 @@
+body {
+    background-color: white;
+}
+
+
+footer {
+    background-color: rgb(235, 206, 169);
+}
+
+p {
+    text-align: center;
+}
+
+@media (min-width: 220px) {
+    body {
+        background-color: white;
+    }
+
+    .navbar-brand {
+        width: 100px;
+        height: 50px;
+    }
+
+    header.masthead {
+        padding-top: 16.5rem;
+        padding-bottom: 10rem;
+        text-align: center;
+        color: #fff;
+        background-image: url("../img/header.png");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .team-member {
+        margin-bottom: 1rem;
+        text-align: center;
+    }
+
+    .team-member img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+
+
+}
+
+@media (min-width: 390px) {
+    body {
+        background-color: white;
+    }
+
+    .navbar-brand {
+        width: 150px;
+        height: 60px;
+    }
+
+    header.masthead {
+        padding-top: 20.5rem;
+        padding-bottom: 19rem;
+        text-align: center;
+        color: #fff;
+        background-image: url("../img/header.png");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .team-member {
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .team-member img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+
+}
+
+
+@media (min-width: 576px) {
+    body {
+        background-color: white;
+    }
+
+    .navbar-brand {
+        width: 160px;
+        height: 70px;
+    }
+
+    header.masthead {
+        padding-top: 20.5rem;
+        padding-bottom: 17rem;
+        text-align: center;
+        color: #fff;
+        background-image: url("../img/header.png");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .team-member {
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .team-member img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+
+}
+
+@media (min-width: 768px) {
+    body {
+        background-color: white;
+    }
+
+    .navbar-brand {
+        width: 170px;
+        height: 70px;
+    }
+
+    header.masthead {
+        padding-top: 21.5rem;
+        padding-bottom: 19rem;
+        text-align: center;
+        color: #fff;
+        background-image: url("../img/header.png");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .team-member {
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .team-member img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+
+}
+
+@media (min-width: 992px) {
+    body {
+        background-color: white;
+    }
+
+    .navbar-brand {
+        width: 200px;
+        height: 70px;
+    }
+
+    header.masthead {
+        padding-top: 21.5rem;
+        padding-bottom: 18rem;
+        text-align: center;
+        color: #fff;
+        background-image: url("../img/header.png");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .team-member {
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .team-member img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+
+}
+
+@media (min-width: 1200px) {
+    body {
+        background-color: white;
+    }
+
+    .navbar-brand {
+        width: 200px;
+        height: 80px;
+    }
+
+    header.masthead {
+        padding-top: 21.5rem;
+        padding-bottom: 16.5rem;
+        text-align: center;
+        color: #fff;
+        background-image: url("../img/header.png");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .team-member {
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .team-member img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+
+}
+
+@media (min-width: 1400px) {
+    body {
+        background-color: white;
+    }
+
+    .navbar-brand {
+        width: 200px;
+        height: 80px;
+    }
+
+    header.masthead {
+        padding-top: 21.5rem;
+        padding-bottom: 18rem;
+        text-align: center;
+        color: #fff;
+        background-image: url("../img/header.png");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .team-member {
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .team-member img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+
+}
